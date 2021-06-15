@@ -1,5 +1,9 @@
-CREATE TABLE MYBATIS (
-    Name varchar(255),
-    Age int,
-    Country varchar(255),
-  );
+CREATE TABLE mybatis (
+ID NUMERIC(20,0) NOT NULL,
+COLOUMN1 VARCHAR(25) NOT NULL,
+COLOUMN2 VARCHAR(255) NOT NULL
+);
+
+ALTER TABLE mybatis
+ADD CONSTRAINT PK_mybatis
+PRIMARY KEY (id);
