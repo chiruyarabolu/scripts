@@ -1,0 +1,5 @@
+CREATE TABLE MYBATIS (
+    Name varchar(255),
+    Age int,
+    Country varchar(255),
+  );
