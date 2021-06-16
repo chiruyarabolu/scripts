@@ -3,4 +3,4 @@ chiru
 chiru
 chiru
 chiru
-DROP TABLE MYBATIS_TEST
+DROP TABLE MYBATIS_TEST;
