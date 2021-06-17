@@ -1,9 +1,4 @@
-chiru
-chiru
-chiru
-chiru
-chiru
-CREATE TABLE mybatis_test2 (
+CREATE TABLE SIT1.mybatis_test2 (
 ID NUMERIC(20,0) NOT NULL,
 COLOUMN1 VARCHAR(25) NOT NULL,
 COLOUMN2 VARCHAR(255) NOT NULL
